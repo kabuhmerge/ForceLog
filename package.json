@@ -1,0 +1,36 @@
+{
+    "name": "JS_API",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "type": "module",
+    "license": "AGPL-version-3.0",
+    "private": false,
+    "engines": {
+        "node": ">= 14.0.0",
+        "npm": ">= 6.0.0"
+    },
+    "homepage": "",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "bugs": "",
+    "keywords": [],
+    "author": {
+        "name": "",
+        "email": "",
+        "url": ""
+    },
+    "contributors": [],
+    "scripts": {
+        "dev": "node app.js",
+        "test": ""
+    },
+    "devDependencies": {
+        "prisma": "^5.8.1"
+    },
+    "dependencies": {
+        "@prisma/client": "^5.8.1"
+    }
+}
